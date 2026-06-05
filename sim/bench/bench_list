@@ -1,0 +1,4 @@
+${TB_PATH}cpu_interface.sv
+${TB_PATH}sva_interface.sv
+${TB_PATH}cpu_env_pkg.sv
+${TB_PATH}tb_cpu.sv
