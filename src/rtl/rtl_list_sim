@@ -1,0 +1,17 @@
+${RTL_PATH}Building_Block/riscv_BB_dfflr.v
+${RTL_PATH}Building_Block/riscv_BB_dffr.v
+${RTL_PATH}Building_Block/riscv_BB_sync_fifo.v
+${RTL_PATH}alu.v
+${RTL_PATH}ctrl_unit.v
+${RTL_PATH}ex_stage.v
+${RTL_PATH}hazard_detection.v
+${RTL_PATH}imm_gen.v
+${RTL_PATH}pipe_ex_mem.v
+${RTL_PATH}pipe_id_ex.v
+${RTL_PATH}regfile.v
+${RTL_PATH}l1_icache.v
+${RTL_PATH}l1_dcache.v
+${RTL_PATH}l2_cache.v
+${RTL_PATH}cache_system_top.v
+${RTL_PATH}dram_behav.v
+${RTL_PATH}riscv_top.v
